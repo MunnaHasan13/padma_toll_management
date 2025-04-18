@@ -126,6 +126,8 @@ if (isset($_POST["owner"])) {
                 <label for="start">Entry date</label>
                 <input type="date" id="start" class="form-control" name="dateofcreate" min="<?php echo $present_date ?>" max="2025-04-18" required />
             </div>
+
+            <!-- submit button -->
             <div class="form-group">
                 <button type="submit" class="btn btn-primary" name="submit"> Submit </button>
             </div>
