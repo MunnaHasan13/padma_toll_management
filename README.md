@@ -14,30 +14,6 @@ A web-based toll management system designed to streamline vehicle data entry, ow
   
 ---
 
-## 🗂️ Project Structure
-
-├── README.md
-├── View.css
-├── View.php
-├── calculating.php
-├── car.php
-├── connect.php
-├── delete_warning.php
-├── font.css
-├── index.php
-├── no_item_found.html
-├── operations.php
-├── owner.php
-├── padma.png
-├── post.php
-├── search.css
-├── search.jpg
-├── sorting_searching.php
-├── update_car.php
-├── update_owner.php
-
----
-
 ## 📄 Key Files
 
 - index.php: Main entry point.
@@ -66,6 +42,24 @@ A web-based toll management system designed to streamline vehicle data entry, ow
 - MySQL (assumed, based on connect.php)
 
 ---
+
+## 📷 Screenshots
+
+- Index Page
+  ![Screenshot 2025-04-23 133226](https://github.com/user-attachments/assets/e0d32878-be19-404b-9ed6-6745390ed6f5)
+
+- Operation Page
+ ![Screenshot 2025-04-23 133251](https://github.com/user-attachments/assets/e6006ff4-ac0a-405b-a5d0-ef7b25da8007)
+
+- Car Owner Information
+  ![Screenshot 2025-04-23 133313](https://github.com/user-attachments/assets/801b2743-d8fd-4505-aec7-c891b40fb7a9)
+
+- Car Information
+  ![Screenshot 2025-04-23 133338](https://github.com/user-attachments/assets/57086bea-1515-4efa-8772-09db7c101424)
+
+- Details
+  ![Screenshot 2025-04-23 133422](https://github.com/user-attachments/assets/73a7af84-3373-4263-82ec-cf64f4c37478)
+
 
 ## ⚙️ Setup Instructions
 
