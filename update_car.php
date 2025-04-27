@@ -142,7 +142,7 @@ if (isset($_POST["submit"])) {
             </div>
             <div class="form-group">
                 <label for="start">Entry date</label>
-                <input type="date" id="start" value="<?php echo $get_date ?>" class="form-control" name="dateofcreate" min="<?php echo $present_date ?>" max="2025-04-18" required />
+                <input type="date" id="start" value="<?php echo $get_date ?>" class="form-control" name="dateofcreate" min="<?php echo $present_date ?>" max="2025-04-19" required />
             </div>
             <div class="form-group">
                 <button type="submit" class="btn btn-primary" name="submit">
