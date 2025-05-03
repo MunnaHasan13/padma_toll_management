@@ -78,3 +78,9 @@ http://localhost/padma_toll_management/
 
 - Make sure your PHP environment is correctly set up.
 - This project does not currently implement authentication.
+
+- This is the first Toll Management Project I have ever completed.
+- There are so many confusion as we can see in our apps.
+- In the details page where we can see the details information based on Vehicle owner & Vehicle that will help us to find the actual toll
+  amount for the vehicle that mention in the input.
+- Although 
