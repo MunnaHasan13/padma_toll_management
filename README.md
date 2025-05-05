@@ -46,18 +46,23 @@ A web-based toll management system designed to streamline vehicle data entry, ow
 ## 📷 Screenshots
 
 - Index Page
+  
   ![Screenshot 2025-04-23 133226](https://github.com/user-attachments/assets/e0d32878-be19-404b-9ed6-6745390ed6f5)
 
 - Operation Page
+  
  ![Screenshot 2025-04-23 133251](https://github.com/user-attachments/assets/e6006ff4-ac0a-405b-a5d0-ef7b25da8007)
 
 - Car Owner Information
+
   ![Screenshot 2025-04-23 133313](https://github.com/user-attachments/assets/801b2743-d8fd-4505-aec7-c891b40fb7a9)
 
 - Car Information
+
   ![Screenshot 2025-04-23 133338](https://github.com/user-attachments/assets/57086bea-1515-4efa-8772-09db7c101424)
 
 - Details
+
   ![Screenshot 2025-04-23 133422](https://github.com/user-attachments/assets/73a7af84-3373-4263-82ec-cf64f4c37478)
 
 
@@ -78,9 +83,7 @@ http://localhost/padma_toll_management/
 
 - Make sure your PHP environment is correctly set up.
 - This project does not currently implement authentication.
-
 - This is the first Toll Management Project I have ever completed.
 - There are so many confusion as we can see in our apps.
 - In the details page where we can see the details information based on Vehicle owner & Vehicle that will help us to find the actual toll
   amount for the vehicle that mention in the input.
-- Although 
